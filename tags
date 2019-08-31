@@ -1,0 +1,58 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+N	fortran/main.f90	/^	  integer N$/;"	v	program:mesh_refine
+N	main.f90	/^	  integer N$/;"	v	program:mesh_refine
+alpha	fortran/main.f90	/^	  double precision dtheta,theta,alpha$/;"	v	program:mesh_refine
+alpha	main.f90	/^	  double precision dtheta,theta,alpha$/;"	v	program:mesh_refine
+angle_of_radials	angle_of_radials.f90	/^subroutine angle_of_radials(/;"	s
+angle_of_radials	fortran/angle_of_radials.f90	/^subroutine angle_of_radials(/;"	s
+area4	area_average.f90	/^		subroutine area4(/;"	s
+area4	fortran/area_average.f90	/^		subroutine area4(/;"	s
+area_average	area_average.f90	/^subroutine area_average(/;"	s
+area_average	fortran/area_average.f90	/^subroutine area_average(/;"	s
+distance	fortran/height.f90	/^subroutine distance(/;"	s
+distance	height.f90	/^subroutine distance(/;"	s
+dtheta	fortran/main.f90	/^	  double precision dtheta,/;"	v	program:mesh_refine
+dtheta	main.f90	/^	  double precision dtheta,/;"	v	program:mesh_refine
+height	fortran/height.f90	/^subroutine height(/;"	s
+height	height.f90	/^subroutine height(/;"	s
+i	fortran/main.f90	/^	  in/;"	v	program:mesh_refine
+i	main.f90	/^	  in/;"	v	program:mesh_refine
+j	fortran/main.f90	/^	  integer i,j /;"	v	program:mesh_refine
+j	main.f90	/^	  integer i,j /;"	v	program:mesh_refine
+mesh_refine	fortran/main.f90	/^program mesh_refine$/;"	p
+mesh_refine	main.f90	/^program mesh_refine$/;"	p
+r_to_xy	fortran/r_to_xy.f90	/^subroutine r_to_xy(/;"	s
+r_to_xy	r_to_xy.f90	/^subroutine r_to_xy(/;"	s
+ra	fortran/main.f90	/^	  double precision,allocatable:: ra(/;"	v	program:mesh_refine
+ra	main.f90	/^	  double precision,allocatable:: ra(/;"	v	program:mesh_refine
+rb	fortran/main.f90	/^	  double precision,allocatable:: rb(/;"	v	program:mesh_refine
+rb	main.f90	/^	  double precision,allocatable:: rb(/;"	v	program:mesh_refine
+refine_mesh_area_and_angle	fortran/refine_mesh_area_and_angle.f90	/^	   subroutine refine_mesh_area_and_angle(/;"	s
+refine_mesh_area_and_angle	refine_mesh_area_and_angle.f90	/^	   subroutine refine_mesh_area_and_angle(/;"	s
+refine_mesh_length	fortran/refine_mesh_length.f90	/^subroutine  refine_mesh_length(/;"	s
+refine_mesh_length	refine_mesh_length.f90	/^subroutine  refine_mesh_length(/;"	s
+refine_mesh_to_equal_length	fortran/refine_mesh_to_equal_length.f90	/^subroutine  refine_mesh_to_equal_length(/;"	s
+refine_mesh_to_equal_length	refine_mesh_to_equal_length.f90	/^subroutine  refine_mesh_to_equal_length(/;"	s
+theta	fortran/main.f90	/^	  double precision dtheta,/;"	v	program:mesh_refine
+theta	main.f90	/^	  double precision dtheta,/;"	v	program:mesh_refine
+xa	fortran/main.f90	/^	  double precision,allocatable:: xa(/;"	v	program:mesh_refine
+xa	main.f90	/^	  double precision,allocatable:: xa(/;"	v	program:mesh_refine
+xb	fortran/main.f90	/^	  double precision,allocatable:: xb(/;"	v	program:mesh_refine
+xb	main.f90	/^	  double precision,allocatable:: xb(/;"	v	program:mesh_refine
+xna	fortran/main.f90	/^	  double precision,allocatable:: xna(/;"	v	program:mesh_refine
+xna	main.f90	/^	  double precision,allocatable:: xna(/;"	v	program:mesh_refine
+xnb	fortran/main.f90	/^	  double precision,allocatable:: xnb(/;"	v	program:mesh_refine
+xnb	main.f90	/^	  double precision,allocatable:: xnb(/;"	v	program:mesh_refine
+ya	fortran/main.f90	/^	  double precision,allocatable:: ya(/;"	v	program:mesh_refine
+ya	main.f90	/^	  double precision,allocatable:: ya(/;"	v	program:mesh_refine
+yb	fortran/main.f90	/^	  double precision,allocatable:: yb(/;"	v	program:mesh_refine
+yb	main.f90	/^	  double precision,allocatable:: yb(/;"	v	program:mesh_refine
+yna	fortran/main.f90	/^	  double precision,allocatable:: yna(/;"	v	program:mesh_refine
+yna	main.f90	/^	  double precision,allocatable:: yna(/;"	v	program:mesh_refine
+ynb	fortran/main.f90	/^	  double precision,allocatable:: ynb(/;"	v	program:mesh_refine
+ynb	main.f90	/^	  double precision,allocatable:: ynb(/;"	v	program:mesh_refine
